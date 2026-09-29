@@ -8,11 +8,11 @@
 
 ![專案截圖](1151VR-HW1-414262284-張智瑜.png)
 
-## YouTube 操作影片
+## YouTube 連結
 
 https://youtu.be/shpaZjp6E7U<img width="777" height="123" alt="image" src="https://github.com/user-attachments/assets/cc3c0731-737a-4d3d-87fe-0a8072400af3" />
 
 
-## GitHub Repository
+## GitHub 連結
 
 https://github.com/cychang1688-sketch/1151VR-HW1-414262284-CCY.git<img width="1801" height="123" alt="image" src="https://github.com/user-attachments/assets/4fcf1994-ec8e-4d21-b62e-7d9d52dc64e6" />
